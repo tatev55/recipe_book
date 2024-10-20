@@ -1,0 +1,16 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    --spacing-small: 8px;
+    --spacing-medium: 16px;
+    --spacing-large: 32px;
+    --color-text: #000;
+    --link-background-color: #F2D7D7;
+    --secondary-color: #333333;
+    --color-white: #fff;
+    --color-hover: rgba(0, 0, 0, .4);
+    --bg-color : #F5F1E7;
+    --color-border: #C8C8C8;
+    --color-red: #E70000;
+
+
+}
